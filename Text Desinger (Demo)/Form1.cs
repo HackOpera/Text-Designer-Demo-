@@ -26,7 +26,6 @@ namespace Text_Desinger__Demo_
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("Hello you are useing the Demo so please buy the Full Version");
 
             NewFile_Click(NewFile, EventArgs.Empty);
             TextFiles_TabIndexChanged(TextFiles, EventArgs.Empty);
